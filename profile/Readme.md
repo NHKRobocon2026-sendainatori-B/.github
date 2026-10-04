@@ -6,7 +6,7 @@
 
 ## プログラムのリンク
   - [メインボード](https://github.com/NHKRobocon2026-sendainatori-B/Main-board)
-  - [ラズパイ4によるros2](https://github.com/NHKRobocon2026-sendainatori-B/ros2Program)
+  - [ラズパイ4によるROS2](https://github.com/NHKRobocon2026-sendainatori-B/ros2Program)
   - [スマホコントローラー](https://github.com/NHKRobocon2026-sendainatori-B/controller)
 
 ## 大会動画リンク
